@@ -1,1 +1,1 @@
-# javaPractice
+# javaPractice-Daily Practice
